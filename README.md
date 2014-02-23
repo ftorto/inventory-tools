@@ -37,4 +37,4 @@ This script can be called with specific arguments in order to read a comma-delim
     * `CSV_FILE_NAME` will be the name of the csv file with data. Default is input.csv (As created in Step #4)
     * `DEBUG` can be changed to True or False, depending on how verbosdde you want the output to be.
 
-6. After the script completes, it will print two sections of information:  The 'added' section will show all the rows that were added successfully.  The `notadded` section will have any rows that failed and the reason for the failure.
+After the script completes, it will print two sections of information:  The 'added' section will show all the rows that were added successfully.  The `notadded` section will have any rows that failed and the reason for the failure.
